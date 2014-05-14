@@ -1,0 +1,4 @@
+Magic-Square
+============
+
+for HackBulgaria
